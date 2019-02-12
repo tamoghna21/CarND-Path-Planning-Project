@@ -59,4 +59,4 @@ If there is a slow moving vehicle in from of the car, the FSM of the path planne
 
 ### Video
 Here's a video of the performance of MPC algorithm in the simulator
-![alt text][image4](https://youtu.be/rmrhmMdB_hE)
+[![alt text][image4]](https://youtu.be/rmrhmMdB_hE)
